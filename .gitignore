@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.env
+/.vscode/
+/.idea/
+
+# Dependencies
+/.venv/
+/.env/
+
+# Compiled files
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+
+# Logs and temporary files
+*.log
+*.swp
+*.bak
+*.cache
+*.tmp
+*.pid
+*.pyc
+
+# Other
+.DS_Store
+.env
+*.csv
+.vercel
